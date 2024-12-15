@@ -32,3 +32,10 @@
 Для установки всех необходимых библиотек выполните:
 ```bash
 pip install -r requirements.txt
+
+### Шаг 3: Запустите программу
+Чтобы запустить программу, выполните:
+```bash
+python bus_schedule_coursework.py
+
+
